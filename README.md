@@ -1,0 +1,2 @@
+# constration-calculation-system
+Construction Calculation System is a web-based application for construction-contractor which has been developed using PHP and MySQL and runs on XAMP server. This application contains all projects of construction with records and also gives total measurements of the records. The contractor can add projects as well as edit, update, delete records of existing projects in this application. 
